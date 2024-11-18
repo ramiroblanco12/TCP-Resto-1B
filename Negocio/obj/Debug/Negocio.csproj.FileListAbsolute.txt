@@ -11,16 +11,3 @@ C:\Users\tomas\OneDrive\Escritorio\Proyectos\AppResto-Equipo1B\Negocio\bin\Debug
 C:\Users\tomas\OneDrive\Escritorio\Proyectos\AppResto-Equipo1B\Negocio\obj\Debug\Negocio.csproj.Up2Date
 C:\Users\tomas\OneDrive\Escritorio\Proyectos\AppResto-Equipo1B\Negocio\obj\Debug\Negocio.dll
 C:\Users\tomas\OneDrive\Escritorio\Proyectos\AppResto-Equipo1B\Negocio\obj\Debug\Negocio.pdb
-C:\Users\tbram\Documents\FACULTAD\PROGRAMACION III\AppResto-Equipo1B\Negocio\bin\Debug\Negocio.dll.config
-C:\Users\tbram\Documents\FACULTAD\PROGRAMACION III\AppResto-Equipo1B\Negocio\bin\Debug\Negocio.dll
-C:\Users\tbram\Documents\FACULTAD\PROGRAMACION III\AppResto-Equipo1B\Negocio\bin\Debug\Negocio.pdb
-C:\Users\tbram\Documents\FACULTAD\PROGRAMACION III\AppResto-Equipo1B\Negocio\bin\Debug\Dominio.dll
-C:\Users\tbram\Documents\FACULTAD\PROGRAMACION III\AppResto-Equipo1B\Negocio\bin\Debug\Dominio.pdb
-C:\Users\tbram\Documents\FACULTAD\PROGRAMACION III\AppResto-Equipo1B\Negocio\bin\Debug\Dominio.dll.config
-C:\Users\tbram\Documents\FACULTAD\PROGRAMACION III\AppResto-Equipo1B\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
-C:\Users\tbram\Documents\FACULTAD\PROGRAMACION III\AppResto-Equipo1B\Negocio\obj\Debug\Negocio.Properties.Resources.resources
-C:\Users\tbram\Documents\FACULTAD\PROGRAMACION III\AppResto-Equipo1B\Negocio\obj\Debug\Negocio.csproj.GenerateResource.cache
-C:\Users\tbram\Documents\FACULTAD\PROGRAMACION III\AppResto-Equipo1B\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
-C:\Users\tbram\Documents\FACULTAD\PROGRAMACION III\AppResto-Equipo1B\Negocio\obj\Debug\Negocio.csproj.Up2Date
-C:\Users\tbram\Documents\FACULTAD\PROGRAMACION III\AppResto-Equipo1B\Negocio\obj\Debug\Negocio.dll
-C:\Users\tbram\Documents\FACULTAD\PROGRAMACION III\AppResto-Equipo1B\Negocio\obj\Debug\Negocio.pdb
